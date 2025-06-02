@@ -12,14 +12,14 @@ A **production-ready portfolio website** built using the MERN (MongoDB, Express,
 > Replace these with your actual images in an `/assets` or `/images` folder
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/12aae7ca-95ff-42c5-b0da-74b1418a9a16)
+  <img src="![image](https://github.com/user-attachments/assets/12aae7ca-95ff-42c5-b0da-74b1418a9a16)"/>
 
   <br/>
   <i>Landing page with personal introduction</i>
 </p>
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/f72f479a-1aa6-4c51-9ca3-12852261bfca)
+  <img src="![image](https://github.com/user-attachments/assets/f72f479a-1aa6-4c51-9ca3-12852261bfca)"/>
 
   <br/>
   <i>Portfolio projects dynamically rendered from backend</i>
