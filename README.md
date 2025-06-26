@@ -3,7 +3,7 @@
 
 A **production-ready portfolio website** built using the MERN (MongoDB, Express, React, Node.js) stack. This web app showcases personal projects, skills, experience, and includes a working contact form — all deployed and hosted on [Render](https://render.com/).
 
-> 🔗 **Live Demo**: [https://mern-portfolio-app-5b38.onrender.com/](https://mern-portfolio-app-38.onrender.com/)
+> 🔗 **Live Demo**: [https://mern-portfolio-app-38.onrender.com/](https://mern-portfolio-app-38.onrender.com/)
 
 ---
 
